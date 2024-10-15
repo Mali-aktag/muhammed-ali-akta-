@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mali-aktag/mali-aktag/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mali-aktag/Mali-aktag/output/snake.svg" alt="Snake animation" />
 
 ###
